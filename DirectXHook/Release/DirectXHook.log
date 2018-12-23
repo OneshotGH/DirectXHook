@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  Generating code
+  0 of 71 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+detours.lib(detours.obj) : error LNK2026: module unsafe for SAFESEH image.
+detours.lib(disasm.obj) : error LNK2026: module unsafe for SAFESEH image.
+c:\users\master\documents\visual studio 2015\Projects\DirectXHook\Release\DirectXHook.dll : fatal error LNK1281: Unable to generate SAFESEH image.
